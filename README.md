@@ -17,8 +17,8 @@ To get your local environment set up and running, follow these simple steps:
 1.  **Clone the repository:**
     https://github.com/KartikTodkari/AI-Code-Review-Assistant
 ```
-  git clone https://github.com/jjxmonster/ai-code-review-assistant
-```
+    https://github.com/KartikTodkari/AI-Code-Review-Assistant
+
 
 2.  **Install dependencies:**
 
